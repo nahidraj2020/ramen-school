@@ -1,0 +1,85 @@
+[
+  {
+    "_id": "615c5efa302d4a0ead1216b5",
+    "index": 0,
+    "price": "$931",
+    "picture": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+    "title": "Learn Japanese Cuisine",
+    "details": "In this online cooking class, we have compiled the recipes for the most popular homemade Japanese food and will be teaching it to you in a simple and easy to understand approach. It includes traditional Japanese recipes like iritori, saba misoni",
+    "starDate": "2021-12-19",
+    "tags": [
+      "reprehenderit",
+      "sit",
+      "excepteur"
+    ]
+  },
+  {
+    "_id": "615c5efad4e417c2de5c99bb",
+    "index": 1,
+    "price": "99",
+    "picture": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+    "title": "Learn Thai Cuisine",
+    "details": "This course will help you to make simple, easy to cook meals that are budget-conscious but delicious. They are the really tasty meals that will become regulars at your family table. Besides, these recipes are the meals that we eat at home every day .",
+    "tags": [
+      "eiusmod",
+      "deserunt",
+      "veniam"
+    ]
+  },
+  {
+    "_id": "615c5efa03722ddb825553dc",
+    "index": 2,
+    "price": "$266",
+    "picture": "https://images.unsplash.com/photo-1625944228741-cf30983ecb91?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=881&q=80",
+    "title": "Learn English Cuisine",
+    "details": "We run a range of British courses that use different ingredients and skills to showcase the best food that the UK has to offer. Whether you are looking to master game, indulge in the Best of British Meat or create delicious seafood dishes. Our beautiful cookery school is based in the converted courtyard of the privately owned Catton Hall in Derbyshire",
+    "starDate": "2021-11-09",
+    "tags": [
+      "esse",
+      "ea",
+      "occaecat"
+    ]
+  },
+  {
+    "_id": "615c5efa4116035b47320699",
+    "index": 3,
+    "price": "$581",
+    "picture": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+    "title": "Learn Chinese Cuisine",
+    "details": "Surprise, you don’t need to know or do anything prior to taking my course but just to have an open mind. In fact, the less you know, the better! This course especially appeals to those who hate cooking or following recipes. If you enjoy cooking and you’re open to being creative and to improvise, you’ll enjoy this class.  It’s a very intuitive way of cooking which I learned from my mom. Don’t rush out and buy the wrong wok, there’s more to wok cooking than that. I will explain and demonstrate my setup with the right wok, stove, ingredients and NO-recipe technique. If you’re looking for traditional Chinese cooking, it’s not what I teach. I use a wok as a cooking vessel ",
+    "starDate": "2021-12-25",
+    "tags": [
+      "sint",
+      "sint",
+      "labore"
+    ]
+  },
+  {
+    "_id": "615c5efade24ebf2ef2bb89d",
+    "index": 4,
+    "price": "$319",
+    "picture": "https://images.unsplash.com/photo-1595295333158-4742f28fbd85?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+    "title": "Learn Italian Cuisine",
+    "details": "Italian food is a compilation of a wide range of recipes and methods that existed before the formation of what we know now, as Italy. It is a collection of regional recipes and different methods: Milanese, Piedmontese, Tuscan, Roman, etc., rather than one single cuisine. Every chef, every cook, every region in Italy will have different methods of making a single recipe.",
+    "starDate": "2021-12-13",
+    "tags": [
+      "magna",
+      "dolor",
+      "mollit"
+    ]
+  },
+  {
+    "_id": "615c5efade24ebf2ef2bb67e",
+    "index": 4,
+    "price": "$319",
+    "picture": "https://images.unsplash.com/photo-1540832804691-58c47b913830?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=880&q=80",
+    "title": "Learn Arabian Cuisine",
+    "details": "Arabian food is a compilation of a wide range of recipes and methods that existed before the formation of what we know now, as Italy. It is a collection of regional recipes and different methods: Milanese, Piedmontese, Tuscan, Roman, etc., rather than one single cuisine. Every chef, every cook, every region in Italy will have different methods of making a single recipe.",
+    "starDate": "2021-12-13",
+    "tags": [
+      "magna",
+      "dolor",
+      "mollit"
+    ]
+  }
+]
